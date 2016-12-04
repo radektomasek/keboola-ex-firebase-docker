@@ -1,4 +1,5 @@
-FROM blueskydigital/keboola-base-node
+# VERSION 1.1.2
+FROM radektomasek/keboola-base-node
 MAINTAINER Radek Tomasek <radek.tomasek@gmail.com>
 
 WORKDIR /home
